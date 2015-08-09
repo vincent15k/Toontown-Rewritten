@@ -3,7 +3,7 @@
 # as well as deployment/server.prc if necessary.
 
 # Client settings
-window-title Toontown Rewritten [DEV BUILD]
+window-title Toontown Kitty Kat
 server-version dev
 sync-video #f
 want-dev #f
